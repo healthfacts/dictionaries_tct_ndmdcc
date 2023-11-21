@@ -1,0 +1,42 @@
+﻿vrai_hop;catAB;description_fr;description_nl
+0;B-105;Pénicillines sensibles aux pénicillinases;Penicillinase-gevoelige penicillinen
+0;B-106;Pénicillines résistantes aux pénicillinases;Penicillinase-resistente penicillinen
+0;B-107a;Aminopénicillines sans inhibiteur bêta-lactamase;Aminopenicillinen excl. beta-lactamase remmer
+0;B-107b;Aminopénicillines avec inhibiteur bêta-lactamase;Aminopenicillinen incl. beta-lactamase remmer
+0;B-108a;Pénicillines anti-pseudomonas sans inhibiteur bêta-lactamase;Anti-pseudomonas penicillinen excl. beta-lactamase remmer
+0;B-108b;Pénicillines anti-pseudomonas avec inhibiteur bêta-lactamase;Anti-pseudomonas penicillinen incl. beta-lactamase remmer
+0;B-109;Pénicillines à spectre limité : gram négatives;Smal-spectrum penicillinen : gram negatieven
+0;B-110;Céphalosporines 1ère génération;Cefalosporinen 1e generatie
+0;B-111;Céphalosporines 2ème génération (sauf anaerobes);Cefalosporinen 2e generatie (excl. anaeroben)
+0;B-112ao;Céphalosporines 3ème gén. (sauf ceftazidime) (oral);Cefalosporinen 3e gen. (excl. ceftazidime) (oraal)
+0;B-112ap;Céphalosporines 3ème gén. (sauf ceftazidime) (parentéral);Cefalosporinen 3e gen. (excl. ceftazidime) (parenteraal)
+0;B-112b;Céphalosporines 3ème gén. (ceftazidime);Cefalosporinen 3e gen. (ceftazidime)
+0;B-112c;Céphalosporines 4ème génération;Cefalosporinen 4e generatie
+0;B-113;Céphalosporines 2ème génération (anaerobes);Cefalosporinen 2e generatie (anaeroben)
+0;B-114;Carbapenems;Carbapenems
+0;B-115;Monobactâmes;Monobactams
+0;B-116o;Aminosides (oral);Aminoglycosiden (oraal)
+0;B-116p;Aminosides (parentéral);Aminoglycosiden (parenteraal)
+0;B-117;Chloramphénicol et apparentés;Chloramphenicol en aanverwanten
+0;B-118;Tétracyclines;Tetracyclinen
+0;B-119a;Macrolides;Macroliden
+0;B-119b;Lincomycines;Lincomycinen
+0;B-120;Rifamycines (sauf tuberculose);Rifamycinen (excl. tuberculose)
+0;B-121;Polypeptides;Polypeptiden
+0;B-122;Acide fusidique et apparentés;Fusidinezuur en aanverwanten
+0;B-123;Fosfomycines et apparentés;Fosfomycinen en aanverwanten
+0;B-124o;Glycopeptides (oral);Glycopeptiden (oraal)
+0;B-124p;Glycopeptides (parentéral);Glycopeptiden (parenteraal)
+0;B-125bis;Quinolones 4ème génération (parentéral);Chinolonen 4e generatie (parenteraal)
+0;B-125o;Quinolones 3ème génération (oral);Chinolonen 3e generatie (oraal)
+0;B-125p;Quinolones 3ème génération (parentéral);Chinolonen 3e generatie (parenteraal)
+0;B-126a;Quinolones 1ère génération;Chinolonen 1e generatie
+0;B-126b;Quinolones 2ème génération;Chinolonen 2e generatie
+0;B-127;Nitrofuranes;Nitrofuranen
+0;B-130;Sulfamides;Sulfamiden
+0;B-131;Sulfamides / trimethoprim;Sulfamiden / trimethoprim
+0;B-132;Dérivés de l'imidazole;Imidazolderivaten
+0;B-134o;Antimycotiques (oral);Antimycotica (oraal)
+0;B-134p;Antimycotiques (parentéral);Antimycotica (parenteraal)
+0;B-258;Kétolides;Ketoliden
+0;B-259;Oxazolidonones;Oxazolidononen

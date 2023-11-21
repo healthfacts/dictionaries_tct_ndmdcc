@@ -1,0 +1,858 @@
+﻿ATC4;description_fr;description_nl
+B03XA;Autres préparations antianémiques;Overige middelen bij anemie
+B05AA;Succédanés du sang et fractions plasmatiques protéiques;Bloedvervangingsmiddelen en plasma-eiwitfracties
+B05BA;Solutions de nutrition parentérale;Oplossingen voor parenterale voeding
+B05BB;Solutions modifiant la balance électrolytique;Oplossingen met invloed op de elektrolytenbalans
+B05BC;Solutions de diurèse osmotique;Oplossingen met osmotisch-diuretische werking
+B05CA;Anti-infectieux;Anti-microbiële middelen
+B05CB;Solutions salines;Zoutoplossingen
+B05CX;Autres solutions pour irrigation;Overige irrigatievloeistoffen
+B05DA;Solutions isotoniques;Isotone oplossingen
+B05DB;Solutions hypertoniques;Hypertone oplossingen
+B05XA;Solutions d'électrolytes;Elektrolytoplossingen
+B05XB;Acides aminés;Aminozuren
+B05XC;Vitamines;Vitaminen
+B05XX;Autres additifs pour solutions intraveineuses;Overige additieven voor intraveneuze infusievloeistoffen
+B05ZA;Hémodialysats concentrés;Hemodialysemiddelen, concentraten
+B05ZB;Hémofiltrats;Hemofiltraten
+B06AA;Enzymes;Enzymen
+B06AB;Autres préparations hématologiques;Overige hematologische middelen
+C01AA;Hétérosides de la digitale;Digitalisglycosiden
+C01AB;Hétérosides de la scille;Scillaglycosiden
+C01AC;Hétérosides du strophantus;Strophantusglycosiden
+C01AX;Autres hétérosides cardiotoniques;Overige hartglycosiden
+C01BA;Antiarythmiques, classe Ia;Anti-aritmica (klasse Ia)
+C01BB;Antiarythmiques, classe Ib;Anti-aritmica (klasse Ib)
+C01BC;Antiarythmiques, classe Ic;Anti-aritmica (klasse Ic)
+C01BD;Antiarythmiques de classe III;Anti-aritmica (klasse III)
+C01BG;Autres antiarhytmiques de classe I;Overige anti-aritmica (klasse I)
+C01CA;Adrénergiques et dopaminergiques;Adrenerge en dopaminerge middelen
+C01CE;Inhibiteurs des phosphodiestérases;Fosfodiesteraseremmers
+C01CX;Autres stimulants cardiaques;Overige hartstimulerende middelen
+C01DA;Nitrates organiques;Organische nitraten
+C01DB;Vasodilatateurs dérivés de la quinolone;Vasodilatantia van de quinolonegroep
+C01DX;Autres vasodilatateurs pour maladies cardiaques;Overige vasodilatantia bij hartziekten
+C01EA;Prostaglandines;Prostaglandines
+C01EB;Autres médicaments cardiaques;Overige cardiaca
+C01EX;Autres associations de produits cardiaques;Overige cardiaca, combinatiepreparaten
+C02AA;Alcaloïdes du rauwolfia;Rauwolfia alkaloïden
+C02AB;Méthyldopa;Methyldopa
+C02AC;Antagonistes des récepteurs de l'imidazoline;Imidazoline receptor agonisten
+C02BA;Dérivés du sulfonium;Sulfoniumderivaten
+C02BB;Aminés secondaires et tertiaires;Secundaire en tertiaire aminen
+C02BC;Dérivés ammonium biquaternaire;Bi-kwaternaire ammoniumverbindingen
+C02CA;Alphabloquants;Alfa-receptorblokkerende middelen
+C02CC;Dérivés de la guanidine;Guanidinederivaten
+C02DA;Thiazides et dérivés;Thiazidederivaten
+C02DB;Dérivés de l'hydralazine;Hydralazinederivaten
+C02DC;Dérivés de la pyrimidine;Pyrimidinederivaten
+C02DD;Dérivés du nitroferricyanure;Nitroferricyanidederivaten
+C02DG;Dérivés de la guanidine;Guanidinederivaten
+C02KA;Alcaloïdes, excepté du rauwolfia;Alkaloïden, rauwolfia uitgezonderd
+C02KB;Inhibiteurs de la tyrosine hydroxylase;Tyrosinehydroxylaseremmers
+C02KC;Imao;Mao-remmers
+C02KD;Antagonistes de la sérotonine;Serotonine-antagonisten
+C02KX;Autres antihypertenseurs;Overige antihypertensiva
+C02LA;Alcaloïdes du rauwolfia et diurétiques;Rauwolfia-alkaloïden met diuretica
+C02LB;Méthyldopa et diurétiques;Methyldopa met diuretica
+C02LC;Antagonistes des récepteurs à l'imidazoline, assoc. avec diurétiques;Imidazoline-receptoragonisten met diuretica
+C02LE;Alphabloquants et diurétiques;Alfa-receptorblokkerende middelen met diuretica
+C02LF;Dérivés de la guanidine et diurétiques;Guanidinederivaten met diuretica
+C02LG;Dérivés de l'hydralazine et diurétiques;Hydralazinederivaten met diuretica
+C02LK;Alcaloïdes, excepte du rauwolfia, et diurétiques;Alkaloïden, rauwolfia uitgezonderd, met diuretica
+C02LL;Imao et diurétiques;Mao-remmers met diuretica
+C02LN;Antagonistes de la sérotonine et diurétiques;Serotonine-antagonisten met diuretica
+C02LX;Autres antihypertenseurs et diurétiques;Andere anti-hypertensiva met diuretica
+C03AA;Thiazides;Thiaziden
+C03AB;Thiazides et potassium;Thiaziden met kalium
+C03AH;Thiazides et psycholeptiques et/ou analgésiques;Thiaziden met psycholeptica en/of analgetica
+C03AX;Thiazides, autres associations;Thiaziden met andere middelen
+C03BA;Sulfamides;Sulfonamiden
+C03BB;Sulfamides et potassium;Sulfonamiden met kalium
+C03BC;Diurétiques mercuriels;Kwikdiuretica
+C03BD;Dérivés xanthiques;Xanthinederivaten
+C03BK;Sulfamides associés à d'autres médicaments;Sulfonamiden met andere middelen
+C03BX;Autres diurétiques actifs sur le tube distal;Overige "low-ceiling" diuretica
+C03CA;Sulfamides;Sulfonamiden
+C03CB;Sulfamides et potassium;Sulfonamiden met kalium
+C03CC;Dérivés de l'acide aryloxyacétique;Aryloxyazijnzuurderivaten
+C03CD;Dérivés de la pyrazolone;Pyrazolonderivaten
+C03CX;Autres diurétiques de l'anse;Overige "high-ceiling" diuretica
+C03DA;Antagonistes de l'aldostérone;Aldosteronantagonisten
+C03DB;Autres diurétiques d'épargne potassique;Overige kaliumsparende middelen
+C03EA;Diurétique du tube distal et d'épargne potassique;Low-ceiling diuretica met kaliumsparende middelen
+C03EB;Diurétiques de l'anse et d'épargne potassique;High-ceiling diuretica met kaliumsparende middelen
+C04AA;Dérivés du 2-amino-1-phénylethanol;2-amino-1-fenylethanolderivaten
+C04AB;Dérivés de l'imidazoline;Imidazolinederivaten
+C04AC;Dérivés de l'acide nicotinique;Nicotinezuur en derivaten
+C04AD;Dérivés des purines;Purinederivaten
+C04AE;Alcaloïdes de l'ergot;Moederkoren-alkaloïden
+C04AF;Enzymes;Enzymen
+C04AX;Autres vasodilatateurs périphéques;Overige perifere vasodilatantia
+C05AA;Préparations contenant des corticostéroïdes;Preparaten met corticosteroïden
+C05AB;Préparations contenant des antibiotiques;Preparaten met antibiotica
+C05AD;Préparations contenant des anesthésiques locaux;Preparaten met lokale anesthetica
+C05AX;Autres préparations antihémorroïdales topiques;Overige lokale hemorroïden-preparaten
+C05BA;Préparations topiques contenant de l'héparine ou des héparinoïdes;Lokale preparaten met heparine of heparinoïden
+C05BB;Agents sclérosants pour injection locale;Scleroserende middelen voor locale inspuiting
+C05BX;Autres agents sclérosants;Overige scleroserende middelen
+C05CA;Bioflavonoïdes;Bioflavonoïden
+C05CX;Autres agents stabilisants des capillaires;Overige capillairstabiliserende middelen
+C07AA;Bêtabloquants non sélectifs;Beta-receptorblokkerende middelen, niet-selectieve
+C07AB;Bêtabloquants sélectifs;Beta-receptorblokkerende middelen, selectieve
+C07AG;Alpha- et bêtabloquants;Alfa- en beta-receptorblokkerende middelen
+C07BA;Bêtabloquants non sélectifs et thiazides;Niet-selectieve beta-receptorblokkerende middelen met thiaziden
+C07BB;Bêtabloquants sélectifs et thiazides;Selectieve beta-receptorblokkerende middelen met thiaziden
+C07BG;Alpha- et bêtabloquants et thiazides;Alfa- en beta-receptorblokkerende middelen met thiaziden
+C07CA;Bêtabloquants non sélectifs et autres diurétiques;Niet-selectieve beta-receptorblokkerende middelen met overige diuretica
+C07CB;Bêtabloquants sélectifs et autres diurétiques;Selectieve beta-receptorblokkerende middelen met overige diuretica
+C07CG;Alpha- et bêtabloquants et autres diurétiques;Alfa- en beta-receptorblokkerende middelen met overige diuretica
+C07DA;Bêtabloquants non sélectifs et thiazides et autres diurétiques;Niet-select. beta-blokkerende middelen met thiaziden en overige diuretica
+C07DB;Bêtabloquants sélectifs et thiazides et autres diurétiques;Selectieve beta-blokkerende midd. met thiaziden en overige diuretica
+C07EA;Bêtabloquants non sélectifs et vasodilatateurs;Niet-selectieve beta-receptorblokkerende middelen met vasodilatantia
+C07EB;Bêtabloquants sélectifs et vasodilatateurs;Selectieve beta-receptorblokkerende middelen met vasodilatantia
+C07FA;Bêtabloquants non sélectifs et autres antihypertenseurs;Niet-selectieve beta-blokkerende midd. met overige antihypertensiva
+C07FB;Bêtabloquants sélectifs et autres antihypertenseurs;Selectieve beta-blokkerende middelen met overige antihypertensiva
+C08CA;Dérivés de la dihydropyridine;Dihydropyridinederivaten
+C08CX;Autres antagonistes du calcium sélectifs à action princip. vasculaire;Overige selectieve calciumantagonisten met hoofdz. vasculaire werking
+C08DA;Dérivés de la phénylalkylamine;Fenylalkylaminederivaten
+C08DB;Dérivés de la benzothiazépine;Benzothiazepinederivaten
+C08EA;Dérivés de la phénylalkylamine;Fenylalkylaminederivaten
+C08EX;Autres antagonistes du calcium non sélectifs;Overige niet selectieve calciumantagonisten
+C08GA;Antagonistes du calcium et diurétiques;Calciumantagonisten met diuretica
+C09AA;Inhibiteurs de l'enzyme de conversion de l'angiotensine (ECA), simples;Inhibitoren van het angiotensine-conversie-enzym (ACE), enkelvoudig
+C09BA;Inhibit. de l'enzyme de conversion de l'angiotensine (ECA) et diurétiques;Inhibitoren van het angiotensine-conversie-enzym (ACE) met diuretica
+C09BB;Inhibit. de l'enz. de conversion de l'angiotensine (ECA) et antagon. du Ca;Inhibitoren v. h. angiotensine-conversie-enzym (ACE) met calciumantagonisten
+C09CA;Antagonistes de l'angiotensine II, simples;Antagonisten van het angiotensine II, enkelvoudig
+C09DA;Antagonistes de l'angiotensine II et diurétiques;Antagonisten van het angiotensine II met diuretica
+C09XA;Inhibiteurs de la rénine;Renine-inhibitoren
+C10AA;Inhibiteurs de la HMG CoA réductase;HMG CoA reductaseremmers
+C10AB;Fibrates;Fibraten
+C10AC;Complexants d'acides biliaires;Galzuurbinders
+C10AD;Acide nicotinique et dérivés;Nicotinezuur en -derivaten
+C10AX;Autres hypocholesterolemiants et réducteurs de triglycérides;Overige cholesterol- en triglycerideverlagende middelen
+D01AA;Antibiotiques;Antibiotica
+D01AC;Dérivés de l'imidazole;Imidazolederivaten
+D01AE;Autres antimycosiques à usage local;Overige lokale antimycotica
+D01BA;Antimycosiques à usage systémique;Antimycotica voor systemisch gebruik
+D02AA;Préparations à base de silicone;Dimeticonproducten
+D02AB;Préparations à base de zinc;Zinkproducten
+D02AC;Préparations à base de vaseline et de graisse;Vaseline en vetproducten
+D02AD;Emplâtres liquides;Vloeibare pleisters
+D02AE;Préparations à base d'urée;Ureumproducten
+D02AF;Préparations à base d'acide salicylique;Salicylzuurpreparaten
+D02AX;Autres émollients et protecteurs;Overige emollientia en protectiva
+D02BA;Protecteurs contre les radiations UV, à usage local;Protectiva tegen UV-straling, lokale
+D02BB;Protecteurs contre les radiations UV, à usage systémique;Protectiva tegen UV-straling voor systemisch gebruik
+D03AA;Pommades d'huile de foie de morue;Levertraanzalven
+D11AA;Anhydrotiques;Antizweetmiddelen
+D11AC;Shampooings médicinaux;Medicinale shampoos
+D11AE;Androgènes à usage topique;Androgenen, lokale
+D11AF;Préparations anticorps et antiverruqueuses;Wrat- en likdoornpreparaten
+D11AX;Autres préparations dermatologiques;Overige dermatologica
+G01AA;Antibiotiques;Antibiotica
+G01AB;Composés arsenicaux;Arseenverbindingen
+G01AC;Dérivés de la quinoline;Chinolinederivaten
+G01AD;Acides organiques;Organische zuren
+G01AE;Sulfamides;Sulfonamiden
+G01AF;Dérivés de l'imidazole;Imidazolederivaten
+G01AG;Dérivés triazoles;Triazolederivaten
+G01AX;Autres anti-infectieux et antiseptiques;Overige anti-infectieuze middelen en antiseptica
+G01BA;Antibiotiques et corticostéroïdes;Antibiotica met corticosteroïden
+G01BC;Dérivés de la quinoline et corticostéroïdes;Chinolinederivaten met corticosteroïden
+G01BD;Antiseptiques et corticostéroïdes;Antiseptica met corticosteroïden
+G01BE;Sulfamides et corticostéroïdes;Sulfonamiden met corticosteroïden
+G01BF;Dérivés de l'imidazole et corticostéroïdes;Imidazolederivaten met corticosteroïden
+G02AB;Alcaloïdes de l'ergot;Moederkoren-alkaloïden
+G02AC;Alcaloïdes de l'ergot associés à l'ocytocine ou ses dérivés;Moederkoren-alkaloïden met oxytocine (derivaten)
+G02AD;Prostaglandines;Prostaglandines
+G02AX;Autres ocytociques;Overige oxytocica
+G02BA;Contraceptifs intra-uterins;Intra-uteriene anticonceptiva
+G02BB;Contraceptifs intravaginaux;Intravaginale anticonceptiva
+G02CA;Sympathicomimétiques, inhibiteurs du travail;Sympathicomimetica, weëenremmende
+G02CB;Inhibiteurs de la prolactine;Prolactineremmers
+G02CC;Agents anti-inflammatoires pour application vaginale;Anti-inflammatoire middelen voor vaginale toepassing
+G02CX;Autres préparations gynécologiques;Overige gynecologische middelen
+G03AA;Progestatifs et oestrogènes, associations fixes;Oestrogenen met progestagenen in vaste verhouding
+G03AB;Progestatifs et oestrogènes, associations séquentielles;Oestrogenen met progestagenen, sequentiële preparaten
+G03AC;Progestagènes;Progestagenen
+G03BA;Dérivés du 3-oxo-androstene-4;3-oxo-androstene-4 derivaten
+G03BB;Dérivés du 5-androstanone-3;5-androstanone-3 derivaten
+G03CA;Oestrogènes naturels et semisynthétiques, monocomposés;Natuurlijke en semi-synthetische oestrogenen, enkelvoudig
+G03CB;Oestrogènes synthétiques, monocomposés;Synthetische oestrogenen, enkelvoudig
+G03CC;Oestrogènes, associations avec d'autres médicaments;Oestrogenen met andere geneesmiddelen
+G03DA;Dérivés du pregnene-4;Pregnene-4 derivaten
+G03DB;Dérivés du pregnadiene;Pregnadieenderivaten
+G03DC;Dérivés de l'estrene;Estreenderivaten
+G03EA;Androgènes et oestrogènes;Androgenen met oestrogenen
+G03EB;Androgènes, oestrogènes et progestatifs;Androgenen met oestrogenen en progestagenen
+G03EK;Androgènes et hormones féminines, autres associations;Androgenen met vrouwelijke geslachtshormonen en andere middelen
+G03FA;Oestrogènes et progestatifs, associations fixes;Oestrogenen met progestagenen in vaste verhouding
+G03FB;Oestrogènes et progestatifs, associations séquentielles;Oestrogenen met progestagenen, sequentiële preparaten
+G03GA;Gonadotrophines;Gonadotrofinen
+G03GB;Inducteurs de l'ovulation, synthétiques;Synthetische ovulatiestimulerende middelen
+G03HA;Antiandrogènes, monocomposés;Anti-androgenen, enkelvoudig
+G03HB;Antiandrogènes et oestrogènes;Anti-androgenen met oestrogenen
+G03XA;Antigonadotrophines et produits similaires;Anti-gonadotrofinen en soortgelijke producten
+G03XB;Antiprogestatifs;Anti-progestagenen
+G03XC;Modulateurs sélectifs des récepteurs oestrogeniques;Selectieve modulatoren van de oestrogeenreceptoren
+G04AA;Préparations à base de méthénamine;Methenamine preparaten
+G04AB;Quinolones (sauf J01M);Chinolonen (excl. J01M)
+G04AC;Dérivés du nitrofurane;Nitrofuraanderivaten
+G04AD;Salicylates;Salicylaten
+G04AG;Autres anti-infectieux et antiseptiques urinaires;Overige urinewegchemotherapeutica
+G04AH;Sulfamides associés à d'autres médicaments;Sulfonamiden met andere middelen
+G04AK;Anti-infectieux urinaires, associations sans sulfamides;Urinewegchemotherapeutica, combinaties zonder sulfonamiden
+G04BA;Acidifiants urinaires;Zuurmakende middelen
+G04BC;Produits contre la lithiase urinaire;Urologische lithiasismiddelen
+G04BD;Spasmolytiques urinaires;Urologische spasmolytica
+G04BE;Médicaments contre les troubles de l'érection;Farmaca bij erectiestoornissen
+G04BX;Autres préparations urologiques;Overige urologica
+G04CA;Alphabloquants;Alfa-receptorblokkerende stoffen
+G04CB;Inhibiteurs de la 5-alpha-réductase;5-alfa-reductase-inhibitoren
+G04CX;Hypertrophie bénigne de la prostate, autres préparations;Overige middelen bij benigne prostaathypertrofie
+H01AA;Corticotrophine (ACTH);Corticotrofine (ACTH)
+H01AB;Thyrotrophine;Thyrotrofine
+H01AC;Somatropine et analogues;Somatropine en analogen
+H01BA;Vasopressine et analogues;Vasopressine en verwante verbindingen
+H01BB;Oxytocine et dérivés;Oxytocine en derivaten
+H01CA;Hormones provoquant la sécrétion de gonadotrophine;Hormonen die gonadotrofine-afgifte bevorderen
+H01CB;Antagoniste de l'hormone de croissance;Antigroeihormoon
+H01CC;Inhibiteurs de la libération de la gonadotrophine;Middelen die de vrijstelling van gonadotropine remmen
+H02AA;Minéralocorticoïdes;Mineralocorticoïden
+H02AB;Glucocorticoïdes;Glucocorticoïden
+D03AX;Autres cicatrisants;Overige wondhelende middelen
+D03BA;Enzymes protéolytiques;Proteolytische enzymen
+D04AA;Antihistaminiques à usage local;Antihistaminica, lokale
+D04AB;Anesthésiques à usage local;Anesthetica, lokale
+D04AX;Autres antiprurigineux;Overige antipruriginosa
+D05AA;Goudrons;Teersoorten
+D05AC;Dérivés anthracéniques;Antranolderivaten
+D05AD;Psoralènes à usage local;Psoralenen, lokale
+D05AX;Autres antipsoriasiques à usage local;Overige lokale psoriasismiddelen
+D05BA;Psoralènes à usage systémique;Psoralenen voor systemisch gebruik
+D05BB;Rétinoïdes pour le traitement du psoriasis;Retinoïden voor psoriasis
+D05BX;Autres antipsoriasiques à usage systémique;Overige psoriasismiddelen voor systemisch gebruik
+D06AA;Tétracyclines et ses dérivés;Tetracycline en derivaten
+D06AX;Autres antibiotiques à usage local;Overige lokale antibiotica
+D06BA;Sulfamides;Sulfonamiden
+D06BB;Antiviraux;Virustatica
+D06BX;Autres antimicrobiens;Overige chemische anti-microbiële middelen
+D07AA;Corticostéroïdes faibles (groupe I);Zwak werkzame corticosteroïden (groep I)
+D07AB;Corticostéroïdes moyennement puissants (groupe II);Matig sterk werkzame corticosteroïden (groep II)
+D07AC;Corticostéroïdes puissants (groupe III);Sterk werkzame corticosteroïden (groep III)
+D07AD;Corticostéroïdes très puissants (groupe IV);Zeer sterk werkzame corticosteroïden (groep IV)
+D07BA;Corticostéroïdes faibles associés à des antiseptiques;Zwak werkzame corticosteroïden met antiseptica
+D07BB;Corticostéroïdes moyennement puissants et antiseptiques;Matig sterk werkzame corticosteroïden met antiseptica
+D07BC;Corticostéroïdes puissants et antiseptiques;Sterk werkzame corticosteroïden met antiseptica
+D07BD;Corticostéroïdes très puissants et antiseptiques;Zeer sterk werkzame corticosteroïden met antiseptica
+D07CA;Corticostéroïdes faibles et antibiotiques;Zwak werkzame corticosteroïden met antibiotica
+D07CB;Corticostéroïdes moyennement puissants et antibiotiques;Matig sterk werkzame corticosteroïden met antibiotica
+D07CC;Corticostéroïdes puissants et antibiotiques;Sterk werkzame corticosteroïden met antibiotica
+D07CD;Corticostéroïdes très puissants et antibiotiques;Zeer sterk werkzame corticosteroïden met antibiotica
+D07XA;Corticostéroïdes faibles, autres associations;Zwak werkzame corticosteroïden met overige middelen
+D07XB;Corticostéroïdes moyennement puissants, autres associations;Matig sterk werkzame corticosteroïden met overige middelen
+D07XC;Corticostéroïdes puissants, autres associations;Sterk werkzame corticosteroïden met overige middelen
+D07XD;Corticostéroïdes très puissants, autres associations;Zeer sterk werkzame corticosteroïden met overige middelen
+D08AA;Dérivés de l'acridine;Acridinederivaten
+D08AB;Préparations à base d'aluminium;Aluminiumbevattende middelen
+D08AC;Biguanides et amidines;Biguaniden en amidinen
+D08AD;Préparations à base d'acide borique;Boorzuurpreparaten
+D08AE;Phénol et ses dérivés;Fenol en derivaten
+D08AF;Dérivés du nitrofurane;Nitrofuraanderivaten
+D08AG;Préparations à base d'iode;Joodproducten
+D08AH;Dérivés de la quinoline;Chinolinederivaten
+D08AJ;Dérivés ammoniums quaternaires;Kwaternaire ammoniumverbindingen
+D08AK;Produits mercuriels;Kwikproducten
+D08AL;Dérivés de l'argent;Zilververbindingen
+D08AX;Autres antiseptiques et désinfectants;Overige antiseptica en desinfectantia
+D09AA;Pansements imprégnés de pommades anti-infectieuses;Verbandmiddelen geïmpregneerd met anti-microbiële zalven
+D09AB;Pansements imprégnés de dérivés du zinc;Verbandmiddelen geïmpregneerd met zink
+D09AX;Pansements imprégnés de vaseline;Verbandmiddelen met vaseline
+D10AA;Corticostéroïdes, associations antiacnéiques;Corticosteroïden, combinatiepreparaten voor acne
+D10AB;Préparations contenant du soufre;Preparaten met zwavel
+D10AD;Rétinoïdes à usage topique contre l'acné;Retinoïden voor acne, lokale
+D10AE;Peroxydes;Peroxiden
+D10AF;Anti-infectieux contre l'acné;Antibacteriële middelen voor acne
+D10AX;Autres préparations antiacnéiques à usage topique;Overige acnepreparaten voor lokaal gebruik
+D10BA;Rétinoïdes systémiques contre l'acné;Retinoïden voor acne
+D10BX;Autres préparations antiacnéiques à usage systémique;Overige acnepreparaten voor systemisch gebruik
+A01AA;Agents pour la prophylaxie des caries;Middelen voor cariësprofylaxe
+A01AC;Corticostéroïdes à usage buccal;Corticosteroïden voor orofaryngeaal gebruik
+A01AD;Autres agents à usage buccal;Overige middelen voor orofaryngeaal gebruik
+A02AA;Dérivés du magnésium;Magnesiumverbindingen
+A02AB;Dérivés de l'aluminium;Aluminiumverbindingen
+A02AC;Dérivés du calcium;Calciumverbindingen
+A02AD;Associations et complexes de dérivés du Ca, Al et Mg;Combinatiepreparaten en complexen van Al-, Ca- en Mg-verbindingen
+A02AF;Antiacides et antiflatulents;Antacida met flatulentiemiddelen
+A02AG;Antiacides et antispasmodiques;Antacida met spasmolytica
+A02AH;Antiacides et bicarbonate de sodium;Antacida met natriumbicarbonaat
+A02AX;Antiacides, autres associations;Antacida, overige combinatiepreparaten
+A02BD;Associations pour éradication de l'helicobacter pylori;Combinatiepreparaten voor de eradicatie van helicobacter pylori
+A02DA;Antiflatulents;Flatulentiemiddelen
+A02EA;Anti-régurgitants;Anti-pyrosis middelen
+A03AC;Spasmolytiques synthétiques, amides avec aminé tertiaire;Synthetische spasmolytica, amiden met tertiaire aminen
+A03AE;Médicaments agissant sur les récepteurs serotoninergiques;Farmaca die inwerken op de serotoninereceptoren
+A03BA;Alcaloïdes de la belladone, aminés tertiaires;Belladonna alkaloïden, tertiaire aminen
+A03CA;Anticholinergiques synthétiques et psycholeptiques;Synthetische parasympathicolytica met psycholeptica
+A03CB;Belladone et ses dérivés et psycholeptiques;Belladonna en derivaten met psycholeptica
+A03CC;Autres spasmolytiques et psycholeptiques;Overige spasmolytica met psycholeptica
+A03DA;Anticholinergiques synthétiques et analgésiques;Synthetische parasympathicolytica met analgetica
+A03DB;Belladone et ses dérivés et analgésiques;Belladonna en derivaten met analgetica
+A03DC;Autres spasmolytiques et analgésiques;Overige spasmolytica met analgetica
+A03EA;Spasmolytiques associés aux psycholeptiques et analgésiques;Spasmolytica met psycholeptica en analgetica
+A03ED;Spasmolytiques associés à d'autres substances;Spasmolytica met andere middelen
+A04AD;Autres antiémétiques;Overige anti-emetica
+A05AB;Thérapie des voies biliaires;Galwegtherapeutica
+A05AX;Autres médicaments pour la thérapie vésiculaire;Overige galtherapeutica
+A05BA;Thérapie hépatique;Levertherapeutica
+A06AA;Emollients;Emollientia
+A06AB;Laxatifs de contact;Contactlaxantia
+A06AC;Laxatifs de lest;Bulkvormende middelen
+A06AG;Lavements;Klysma's
+A06AX;Autres laxatifs;Overige laxantia
+A07AB;Sulfamides;Sulfonamiden
+A07AC;Dérivés de l'imidazole;Imidazolederivaten
+A07AX;Autres anti-infectieux intestinaux;Overige anti-microbiële darmmiddelen
+A07BA;Charbon;Koolpreparaten
+A07BB;Bismuth;Bismutpreparaten
+A07BC;Autres absorbants intestinaux;Overige adsorberende darmmiddelen
+A07CA;Sels de réhydratation orale;Orale rehydratiemiddelen (ORS)
+A07DA;Inhibiteur de la motricité digestive;Antipropulsiva
+A07EA;Corticostéroïde à usage local;Corticosteroïden voor lokaal gebruik
+A07EB;Antiallergiques, sauf les corticostéroïdes;Anti-allergische middelen, corticosteroïden uitgezonderd
+A07EC;Mesalazine et similaires;Mesalazine en verwante verbindingen
+A07FA;Modificateurs de la flore intestinale;Micro-organismen tegen diarree
+A07XA;Autres antidiarhéiques;Overige anti-diarrhoïca
+A08AA;Préparations contre l'obésité à action centrale;Centraal werkende vermageringsmiddelen
+A08AB;Préparations contre l'obésité à action périphérique;Perifeer werkende vermageringsmiddelen
+A09AA;Préparations enzymatiques;Enzympreparaten
+A09AB;Préparations acides;Zure preparaten
+A09AC;Préparations enzymatiques et acides, associations;Enzymen met zuren
+A10AB;Insulines et analogues à action rapide;Snelwerkende insulines en analogen
+A10AC;Insulines et analogues à action intermédiaire;Middellangwerkende insulines en analogen
+A10AD;Insulines et anal. à action intermédiaire avec début d'action rapide;Middellangwerkende insulines en analogen met snel begineffect
+A10AE;Insulines et analogues à action longue;Langwerkende insulines en analogen
+A10BA;Biguanides;Biguaniden
+A10BB;Dérivés de la sulfonylurée;Sulfonylureumderivaten
+A10BC;Sulfamides hétérocycliques;Heterocyclische sulfonamiden
+A10BD;Biguanides et dérivés de la sulfonylurée;Biguaniden met sulfonylureumderivaten
+A10BF;Inhibiteurs de l'alpha-glucosidase;Alfa-glucosidase remmers
+A10BG;Thiazolidinédiones;Thiazolidinedionen
+A10BX;Autres hypoglycémiants oraux;Overige orale hypoglykemiërende middelen
+A10XA;Inhibiteurs de l'aldose réductase;Aldosereductase remmende middelen
+A11AA;Multivitamines et minéraux;Multivitaminen met mineralen
+A11AB;Multivitamines, autres associations;Multivitaminen, overige combinatiepreparaten
+A11BA;Multivitamines uniquement;Multivitaminen
+A11CA;Vitamine A;Vitamine A
+A11CB;Vitamine A et vitamine D;Vitamine A met vitamine D
+A11CC;Vitamine D et dérivés;Vitamine D en analoge verbindingen
+A11DA;Vitamine B1, simple;Vitamine B1, enkelvoudig
+A11DB;Vitamine B1 et vitamine B6 et/ou B12;Vitamine B1 met vitamine B6 en/of vitamine B12
+A11EA;Complexe vitaminique B, simple;Vitamine B complex, enkelvoudig
+A11EB;Complexe vitaminique B et vitamine C;Vitamine B complex met vitamine C
+A11EC;Complexe vitaminique B et minéraux;Vitamine B complex met mineralen
+A11ED;Complexe vitaminique B et stéroïdes anabolisants;Vitamine B complex met anabole steroïden
+A11EX;Complexe vitaminique B, autres associations;Vitamine B complex, overige combinatiepreparaten
+A11GA;Acide ascorbique, simple;Ascorbinezuur, enkelvoudig
+A11GB;Acide ascorbique, associations;Ascorbinezuur, combinatiepreparaten
+A11HA;Autres vitamines monocomposées;Overige enkelvoudige vitaminepreparaten
+A11JA;Associations de vitamines;Combinaties van vitaminen
+A11JB;Vitamines et minéraux;Vitaminen met mineralen
+A11JC;Vitamines, autres associations;Vitaminen, overige combinatiepreparaten
+A12AA;Calcium;Calcium
+A12AX;Calcium, associations avec autres substances;Calcium met andere middelen
+A12BA;Potassium;Kalium
+A12CA;Sodium;Natrium
+A12CB;Zinc;Zink
+A12CC;Magnésium;Magnesium
+A12CD;Fluor;Fluor
+A12CE;Sélénium;Seleen
+A12CX;Autres minéraux;Overige mineraalproducten
+A14AA;Dérivés de l'androstane;Androstaanderivaten
+A14AB;Dérivés de l'estrene;Estreenderivaten
+A16AA;Acides amines et dérivés;Aminozuren en derivaten
+A16AB;Enzymes;Enzymen
+A16AX;Divers produits pour le système gastro-intestinal et le métabolisme;Diverse middelen van het maagdarmkanaal en metabolisme
+B01AA;Antagonistes de la vitamine K;Vitamine K-antagonisten
+B01AB;Héparine;Heparinegroep
+B01AC;Inhibiteurs de l'agrégation plaquettaire, sauf l'héparine;Trombocytenaggregatieremmers, heparine uitgezonderd
+B01AD;Enzymes;Enzymen
+B01AX;Autres antithrombotiques;Overige anti-thrombotica
+B02AA;Acides aminés;Aminozuren
+B02AB;Inhibiteurs de la protéinase;Proteinaseremmers
+B02BA;Vitamine K;Vitamine K
+B02BB;Fibrinogène;Fibrinogeen
+B02BC;Hémostatiques locaux;Lokale hemostatica
+B02BD;Facteurs de coagulation;Bloedstollingsfactoren
+B02BX;Autres hémostatiques systémiques;Overige systemische hemostatica
+B03AA;Préparations orales de fer II;Orale ferropreparaten II
+B03AB;Préparations orales de fer III;Orale ferripreparaten III
+B03AC;Préparations parentérales de fer III;Ferripreparaten, parenteraal III
+B03AD;Fer associé à l'acide folique;IJzer met foliumzuur
+B03AE;Fer, autres associations;IJzer met andere middelen
+B03BA;Vitamine B12 (cyanocobalamine et dérivés);Vitamine B12 (cyanocobalamine en derivaten)
+B03BB;Acide folique et dérivés;Foliumzuur en derivaten
+R07AB;Analeptiques respiratoires;Respiratoire analeptica
+R07AX;Autres préparations pour le système respiratoire;Overige middelen voor het ademhalingsstelsel
+S01AA;Antibiotiques;Antibiotica
+S01AB;Sulfamides;Sulfonamiden
+S01AD;Antiviraux;Antivirale middelen
+S01AX;Autres anti-infectieux;Overige anti-microbiële middelen
+S01BA;Corticostéroïdes, monocomposés;Corticosteroïden, enkelvoudige
+S01BB;Associations de mydriatiques et de corticostéroïdes;Corticosteroïden met mydriatica
+S01BC;Anti-inflammatoires non stéroïdiens;Niet-steroïdale anti-inflammatoire middelen
+S01CA;Associations de corticostéroïdes et d'anti-infectieux;Corticosteroïden met anti-microbiële middelen
+S01CB;Associations corticostéroïde/anti-infectieux/sympthomimétique;Corticosteroïden met anti-microbiële middelen en sympathicomimetica
+S01CC;Associations d'anti-inflammatoires non stéroïd. et d'anti-infectieux;Niet-steroïde anti-inflammatoire middelen met anti-microbiële middelen
+S01EA;Sympathicomimétiques utilisés contre le glaucome;Sympathicomimetica voor glaucoom
+S01EB;Parasympathicomimétiques;Parasympathicomimetica
+S01EC;Inhibiteurs de l'anhydrase carbonique;Koolzuuranhydraseremmers
+S01ED;Bêtabloquants;Beta-receptorblokkerende stoffen
+S01EX;Autres préparations contre le glaucome;Overige glaucoommiddelen
+S01FA;Anticholinergiques;Parasympathicolytica
+S01FB;Sympathicomimétiques, sauf préparations contre le glaucome;Sympathicomimetica excl. glaucoommiddelen
+S01GA;Sympathicomimétiques utilisés comme décongestionnants;Sympathicomimetica aangewend als decongestiva
+S01GX;Autres antiallergiques;Overige allergiemiddelen
+S01HA;Anesthésiques locaux;Anesthetica, lokale
+S01JA;Colorants;Kleurstoffen
+S01JX;Autres agents de diagnostic;Overige diagnostica
+S01KA;Substances viscoélastiques;Visco-elastische stoffen
+S01KX;Autres produits chirurgicaux;Overige chirurgische hulpmiddelen
+S01XA;Autres produits à usage ophtalmique;Overige middelen voor oogheelkundig gebruik
+S02AA;Anti-infectieux;Anti-microbiële middelen
+S02BA;Corticostéroïdes;Corticosteroïden
+S02CA;Corticostéroïdes associés à des anti-infectieux;Corticosteroïden met anti-microbiële middelen
+S02DA;Analgésiques et anesthésiques;Analgetica en anesthetica
+S02DC;Préparations inertes;Indifferente preparaten
+S03AA;Anti-infectieux;Anti-microbiële middelen
+S03BA;Corticostéroïdes;Corticosteroïden
+S03CA;Corticostéroïdes associés à des anti-infectieux;Corticosteroïden met anti-microbiële middelen
+V01AA;Extraits d'allergènes;Allergeenextracten
+V03AA;Produits pour le traitement de l'alcoolisme chronique;Middelen voor de behandeling van chronisch alcoholisme
+V03AB;Antidotes;Antidota
+V03AC;Chelateurs du fer;IJzerchelerende middelen
+V03AE;Produits pour le traitement de l'hyperkaliémie;Middelen bij hyperkaliëmie
+V03AF;Produits detoxifiants lors de traitements antinéoplasiques;Beschermende middelen voor anti-neoplastische behandeling
+V03AG;Produits pour le traitement de l'hypercalcémie;Middelen bij hypercalciëmie
+V03AH;Produits pour le traitement de l'hypoglycémie;Middelen bij hypoglykemie
+V03AK;Adhésifs tissulaires;Weefsellijmen
+V03AM;Produits pour embolisation;Middelen voor embolisatie
+V03AN;Gaz médicinaux;Medicinale gassen
+V03AX;Autres produits thérapeutiques;Overige therapeutische middelen
+V03AZ;Neurodépresseurs;Neurodepressieve middelen
+V04CA;Tests pour le diabète;Diagnostica voor diabetes mellitus
+V04CB;Test pour l'absorption des graisses;Diagnostica voor vetabsorptie
+V04CC;Test pour la fonction vésiculaire;Diagnostica voor galblaasfunctie
+V04CD;Test pour la fonction hypophysaire;Diagnostica voor hypofysefunctie
+V04CE;Tests pour la fonction hépatique;Diagnostica voor leverfunctie
+V04CF;Diagnostics de la tuberculose;Diagnostica voor tuberculose
+V04CG;Tests pour la sécrétion gastrique;Diagnostica voor maagzuursecretie
+V04CH;Tests pour la fonction rénale;Diagnostica voor nierfunctie
+V04CJ;Tests pour la fonction thyroïdienne;Diagnostica voor schildklierfunctie
+V04CK;Tests pour la fonction pancréatique;Diagnostica voor pancreasfunctie
+V04CL;Tests pour les maladies allergiques;Diagnostica voor allergische reacties
+V04CM;Tests pour les troubles de la fertilité;Diagnostica voor vruchtbaarheidsstoornissen
+V04CX;Autres agents de diagnostic;Overige diagnostica
+V06AA;Diètes à faible énergie;Energie-arme voeding
+V06CA;Aliments sans phénylalanine;Voedingsstoffen zonder fenylalanine
+V06DA;Hydrates de carbone, protéines, minéraux, vitamines associées;Koolhydraten met eiwitten, mineralen en vitaminen
+V06DB;Graisses et hydrates de carbone, protéines, minéraux, vitamines;Vet met koolhydraten, eiwitten, mineralen en vitaminen
+V06DC;Hydrates de carbone;Koolhydraten
+V06DD;Acides aminés, associations avec les polypeptides incluses;Aminozuren, inclusief combinatiepreparaten met polypeptiden
+V06DE;Acides amines et hydrates de carbone, minéraux et vitamines;Aminozuren met koolhydraten, mineralen en vitaminen
+V06DF;Succédanés du lait;Melkvervangende middelen
+V06DX;Autres associations d'aliments;Overige voedingsstoffen combinaties
+V07AA;Emplâtres;Pleisters
+V07AB;Solvants et diluants, solutions d'irrigation incluses;Oplos- en verdunningsmiddelen, inclusief irrigatievloeistoffen
+V07AC;Produits pour la transfusion sanguine;Hulpstoffen bij bloedtransfusie
+V07AD;Produits pour les tests sanguins;Hulpstoffen bij bloedproeven
+V07AN;Matériel d'incontinence;Incontinentiemateriaal
+V07AR;Tests de sensibilité, disques et comprimés;Gevoeligheidstesten, discs en tabletten
+V07AS;Equipements pour les stomies;Stoma-artikelen
+V07AT;Cosmétiques;Cosmetica
+V07AV;Désinfectants techniques;Technische desinfectantia
+V07AX;Détergents etc.;Wasmiddelen etc.
+V07AY;Autres produits auxiliaires non thérapeutiques;Overige niet-therapeutische hulpmiddelen
+V07AZ;Produits chimiques et réactifs pour analyse;Chemicaliën en reagentia
+V08AA;Produits de contraste solubles, néphrotropes et de haute osmolarité;Wateroplosb., nefrotropische, rontgencontr.midd. met hoge osmolariteit
+V08AB;Produits de contraste solubles, néphrotropes, de faible osmolarité;Wateroplosb., nefrotropische, rontgencontr.midd. met lage osmolariteit
+V08AC;Produits de contraste solubles, hépatotropes;Wateroplosbare, hepatotropische rontgencontrastmiddelen
+V08AD;Produits de contraste insolubles dans l'eau;Niet wateroplosbare rontgencontrastmiddelen
+V08BA;Produits de contraste contenant du sulfate de baryum;Rontgencontrastmiddelen met bariumsulfaat
+V08CA;Produits de contraste paramagnétiques;Paramagnetische contrastmiddelen
+V08CB;Produits de contraste superparamagnétiques;Superparamagnetische contrastmiddelen
+V08CX;Autres produits de contraste pour imagerie rmn;Overige NMR contrastmiddelen
+V08DA;Produits de contraste pour ultrasons;Contrastmiddelen voor ultrason
+V09AA;Préparations de technetium (99m tc);Technetium (99m tc) preparaten
+V09AB;Préparations d'iode (123 i);Jood (123 i) preparaten
+V09AX;Autres produits radiopharmaceutiques pour le système nerveux central;Overige radiofarmaca voor het centraal zenuwstelsel
+V09BA;Préparations de technetium (99m tc);Technetium (99m tc) preparaten
+V09CA;Préparations de technetium (99m tc);Technetium (99m tc) preparaten
+V09CX;Autres produits radiopharmaceutiques pour le système rénal;Overige diagnostische radiofarmaca voor het renaal systeem
+V09DA;Préparations de technetium (99m tc);Technetium (99m tc) preparaten
+V09DB;Technetium (99m tc), particules et colloïdes;Technetium (99m tc), partikels en colloïden
+V09DX;Autres produits radiopharmac. pour le système hépatique et le s.r.e.;Overige diagnostische radiofarmaca voor het hepatisch & RES systeem
+V09EA;Technetium (99m tc), préparations à inhaler;Technetium (99m tc), inhalatiepreparaten
+V09EB;Technetium (99m tc), particules pour injection;Technetium (99m tc), partikels voor injectie
+V09EX;Autres produits radiopharmaceutiques pour le système respiratoire;Overige diagnostische radiofarmaca voor de luchtwegen
+V09FX;Divers produits radiopharmaceutiques de diagnostic pour la thyroïde;Diverse diagnostische radiofarmaca voor de schildklier
+V09GA;Préparations de technetium (99m tc);Technetium (99m tc) preparaten
+V09GB;Préparations d'iode (125 i);Jood (125 i) preparaten
+V09GX;Autres produits radiopharmaceutiques pour le système cardio-vasculaire;Overige diagnostische radiofarmaca voor het cardiovasculair stelsel
+V09HA;Préparations de technetium (99m tc);Technetium (99m tc) preparaten
+V09HB;Préparations d'indium (111 in);Indium (111 in) preparaten
+V09HX;Autres prod. radiopharmac. pour détection d'inflammation et infection;Overige diagn. radiofarmaca voor detectie van inflammatie en infectie
+V09IA;Préparations de technetium (99m tc);Technetium (99m tc) preparaten
+V09IB;Préparations d'indium (111 in);Indium (111 in) preparaten
+V09IX;Autres produits radiopharmaceutiques pour la détection de tumeurs;Overige diagnostische radiofarmaca voor tumordetectie
+V09XA;Préparations d'iode (131 i);Jood (131 i) preparaten
+V09XX;Divers produits radiopharmaceutiques de diagnostic;Diverse diagnostische radiofarmaca
+V10AA;Préparations d'yttrium (90 y);Yttrium (90 y) preparaten
+V10AX;Autres produits radiopharmaceutiques anti-inflammatoires;Overige therapeutische anti-inflammatoire radiofarmaca
+V10BX;Divers antidouleurs palliatifs radiopharmaceutiques;Diverse radiofarmaca voor pijnpalliatie
+V10XA;Préparations d'iode (131 i);Jood (131 i) preparaten
+V10XX;Divers produits radiopharmaceutiques thérapeutiques;Diverse therapeutische radiofarmaca
+Z01ZZ;Non exploitable;Niet exploiteerbaar
+H02BX;Corticostéroïdes à usage systémique, associations;Corticosteroïden voor systemisch gebruik, combinaties
+H02CA;Anticorticostéroïdes;Anticorticosteroïden
+H03AA;Hormones thyroïdiennes;Schildklierhormonen
+H03BA;Dérivés du thiouracile;Thiouracilderivaten
+H03BB;Dérivés imidazoles soufres;Zwavelbevattende imidazolederivaten
+H03BC;Perchlorates;Perchloraten
+H03BX;Autres thyréostatiques;Overige thyreostatica
+H03CA;Préparations d'iode;Joodpreparaten
+H04AA;Hormones glycogenolytiques;Glycogenolytische hormonen
+H05AA;Hormones parathyroïdes;Bijschildklierhormonen
+H05BA;Calcitonine;Calcitonine
+J01AA;Tétracyclines;Tetracyclines
+J01BA;Amphénicoles;Amfenicolen
+J01CA;Pénicillines à large spectre;Penicillines met breed spectrum
+J01CE;Pénicillines sensibles aux bêtalactamases;Betalactamase-gevoelige penicillines
+J01CF;Pénicillines résistantes aux bêtalactamases;Betalactamase-resistente penicillines
+J01CG;Inhibiteurs de la bêtalactamase;Betalactamase-remmers
+J01CR;Associations de pénicillines, inhib. de la bêtalactamase inclus;Combinatiepreparaten van penicillines, incl. betalactamase-remmers
+J01DA;Céphalosporines et apparentés;Cefalosporines en verwante verbindingen
+J01DF;Monobactâmes;Monobactam-antibiotica
+J01DH;Carbapenèmes;Carbapenem-antibiotica
+J01EA;Trimethoprim et dérivés;Trimethoprim en afgeleiden
+J01EB;Sulfamides à action courte;Kortwerkende sulfonamiden
+J01EC;Sulfamides à action intermédiaire;Middellang werkende sulfonamiden
+J01ED;Sulfamides à action longue;Langwerkende sulfonamiden
+J01EE;Associations de sulfamides et de trimethoprim, dérivés inclus;Sulfonamiden met trimethoprim incl. afgeleiden
+J01FA;Macrolides;Macroliden
+J01FF;Lincosanides;Lincosamiden
+J01FG;Streptogramines;Streptograminen
+J01GA;Streptomycines;Streptomycinen
+J01GB;Autres aminoglycosides;Overige aminoglycosiden
+J01MA;Fluoroquinolones;Fluorochinolonen
+J01MB;Autres quinolones (sauf G04AB);Overige chinolonen (excl. G04AB)
+J01RA;Associations d'antibactériens;Combinatiepreparaten van antibacteriële middelen
+J01XA;Glycopeptides;Glycopeptiden
+J01XB;Polymyxines;Polymyxines
+J01XC;Stéroïdes antibactériens;Steroïde anti-bacteriële middelen
+J01XD;Dérivés de l'imidazole;Imidazolederivaten
+J01XE;Dérivés du nitrofurane;Nitrofuraanderivaten
+J01XX;Autres antibactériens;Overige anti-bacteriële middelen
+J02AA;Antibiotiques;Antibiotica
+J02AB;Dérivés de l'imidazole;Imidazolederivaten
+J02AC;Dérivés triazoles;Triazolederivaten
+J02AX;Autres antimycosiques à usage systémique;Overige antimycotica voor systemisch gebruik
+J04AA;Acide aminosalicylique et ses dérivés;Aminosalicylzuur en derivaten
+J04AB;Antibiotiques;Antibiotica
+J04AC;Hydrazides;Hydraziden
+J04AD;Dérivés de la thiocarbamide;Thioureumderivaten
+J04AK;Autres antituberculeux;Overige tuberculosemiddelen
+J04AM;Associations d'antituberculeux;Combinatiepreparaten van tuberculosemiddelen
+J04BA;Antilépreux;Lepramiddelen
+J05AA;Thiosemicarbazones;Thiosemicarbazonen
+J05AB;Nucléosides et nucléotides, excl. inhib. de la transcriptase reverse;Nucleosiden en nucleotiden, excl. inhib. van het reverse transcriptase
+J05AC;Aminés cycliques;Cyclische aminen
+J05AD;Dérivés de l'acide phosphonique;Fosfonzuurderivaten
+J05AE;Inhibiteurs de la protéase;Protease-inhibitoren
+J05AF;Inhibiteurs nucléosidiques de la transcriptase reverse;Inhibitoren van het reverse transcriptase (nucleosiden)
+J05AG;Inhibiteurs non-nucléosidiques de la transcriptase reverse;Inhibitoren van het reverse transcriptase (niet-nucleosiden)
+J05AH;Inhibiteurs de la neuraminidase;Neuraminidase-inhibitoren
+J05AX;Autres antiviraux;Overige antivirale middelen
+J06AA;Sérums immunes;Immuunsera
+J06BA;Immunoglobulines humaines normales;Normaal humaan immunoglobuline
+J06BB;Immunoglobulines spécifiques;Specifieke immunoglobulinen
+J06BC;Autres immunoglobulines;Overige immunoglobulinen
+J07AC;Vaccins de l'anthrax;Anthraxvaccins
+J07AD;Vaccins de la brucellose;Brucellosevaccins
+J07AE;Vaccins du choléra;Chloleravaccins
+J07AF;Vaccin de la diphtérie;Difterievaccins
+J07AG;Vaccin contre l'hémophilus influenzae B;Hemophilus influenzae B-vaccins
+J07AH;Vaccins méningococciques;Meningokokkenvaccins
+J07AJ;Vaccins de la coqueluche;Pertussis (kinkhoest) vaccins
+J07AK;Vaccins de la peste;Pestvaccins
+J07AL;Vaccins pneumococciques;Pneumokokkenvaccins
+J07AM;Vaccin antitétanique;Tetanusvaccins
+J07AN;Vaccin antituberculeux;Tuberculosevaccins
+J07AP;Vaccins du typhus;Tyfusvaccins
+J07AR;Vaccin du typhus exanthematique;Vlektyfusvaccins
+J07AX;Autres vaccins antibactériens;Overige bacteriële vaccins
+J07BA;Vaccins de l'encéphalite;Encephalitisvaccins
+J07BB;Vaccins anti-influenza;Influenzavaccins
+J07BC;Vaccins de l'hépatite;Hepatitisvaccins
+J07BD;Vaccins de la rougeole;Mazelenvaccins
+J07BE;Vaccins des oreillons;Bofvaccins
+J07BF;Vaccins de la poliomyélite;Poliomyelitisvaccins
+J07BG;Vaccins antirabiques;Rabiësvaccins
+J07BH;Vaccins de la diarhée à rotavirus;Rotavirusdiarreevaccins
+J07BJ;Vaccins de la rubéole;Rubellavaccins
+J07BK;Vaccins de la varicelle;Varicellavaccins
+J07BL;Vaccins de la fièvre jaune;Gele koorts vaccins
+J07BX;Autres vaccins antiviraux;Overige virale vaccins
+J07CA;Associations de vaccins antibactériens et antiviraux;Bacteriële vaccins met virale vaccins
+L01AA;Analogues de la moutarde à l'azote;Stikstofmosterdderivaten
+L01AB;Alkylsulphonates;Alkylsulfonaten
+L01AC;Ethyleneimines;Ethyleeniminen
+L01AD;Dérivés de la nitrosurée;Nitroso-ureumderivaten
+L01AG;Epoxides;Epoxiden
+L01AX;Autres agents alkylants;Overige alkylerende middelen
+L01BA;Analogues de l'acide folique;Foliumzuuranalogen
+L01BB;Analogues des purines;Purinederivaten
+L01BC;Analogues des pyrimidines;Pyrimidinederivaten
+L01CA;Alcaloïdes de la pervenche et ses analogues;Vinca-alkaloïden en derivaten
+L01CB;Dérivés de la podophyllotoxine;Podofyllotoxinederivaten
+L01CC;Dérivés de la colchicine;Colchicinederivaten
+L01CD;Taxanes;Taxanen
+L01CX;Autres alcaloides et produits naturels;Overige alkaloiden en natuurlijke producten
+L01DA;Actinomycines;Actinomycinen
+L01DB;Anthracyclines et apparentés;Anthracyclinen en aanverwanten
+L01DC;Autres antibiotiques cytostatiques;Overige cytotoxische antibiotica
+L01XA;Dérivés du platine;Platinaverbindingen
+L01XB;Méthylhydrazines;Methylhydrazinen
+L01XC;Anticorps monoclonaux;Monoclonale antilichamen
+L01XD;Préparations pour une thérapie photodynamique;Middelen voor fotodynamische behandeling
+L01XX;Autres cytostatiques;Overige cytostatica
+L01XY;Associations de cytostatiques;Combinaties van cytostatica
+L02AA;Oestrogènes;Oestrogenen
+L02AB;Progestatifs;Progestagenen
+L02AE;Analogues de la gonadoréline;Gonadoreline-analogen
+L02AX;Autres hormones;Overige hormonen
+L02BA;Anti-oestrogènes;Anti-oestrogenen
+L02BB;Anti-androgènes;Anti-androgenen
+L02BG;Inhibiteurs d'enzymes;Enzymremmers
+L03AA;Facteurs de croissance des colonies;Colony-stimulating factors (bloedgroeifactoren)
+L03AB;Interférons;Interferonen
+L03AC;Interleukines;Interleukines
+L03AX;Autres cytokines et immunomodulateurs;Overige cytokines en immunomodulerende middelen
+L04AA;Immunosuppresseurs sélectifs;Selectieve immunosuppressiva
+L04AX;Immunosuppresseurs divers;Overige immunosuppressiva
+M01AA;Dérivés de la pyrazolone;Pyrazolinonderivaten
+M01AB;Dérivés de l'acide acétique et substances apparentées;Azijnzuurderivaten en verwante stoffen
+M01AC;Oxicames;Oxicamderivaten
+M01AE;Dérivés de l'acide propionique;Propionzuurderivaten
+M01AG;Fenamates;Fenamaten
+M01AH;Coxibs;Coxibs
+M01AX;Autres anti-inflammatoires/antirhumastismaux non stéroïdiens;Overige niet-steroïde anti-inflammatoire/anti-rheumatische middelen
+M01BA;Anti-inflammatoires/antirhumatismaux et corticostéroïdes;Anti-inflammatoire en anti-reumatische middelen met corticosteroïden
+M01BX;Autres anti-inflammatoires/antirhumat., assoc. avec autres produits;Overige anti-inflammat./anti-reum. middelen, comb. met andere middelen
+M01CA;Quinolines;Chinolinederivaten
+M01CB;Chrysothérapie;Goudpreparaten
+M01CC;Pénicillamine et apparentés;Penicillamine en aanverwante middelen
+M01CX;Autres antirhumatismaux spécifiques;Overige specifiek anti-reumatische middelen
+M02AA;Anti-inflammatoires non stéroïdiens à usage local;Lokale niet-steroïde anti-inflammatoire middelen
+M02AB;Préparations à base de capsicum et analogues;Capsicumpreparaten en analogen
+M02AC;Préparations à base de dérivés de l'acide salicylique;Preparaten met salicylzuurderivaten
+M02AX;Autres anti-inflammatoires/antirhumatismaux topiques;Overige lokale middelen bij spier- en gewrichtspijn
+M03AA;Alcaloïdes du curare;Curare alkaloïden
+M03AB;Dérivés de la choline;Cholinederivaten
+M03AC;Autres ammoniums quaternaires;Overige kwaternaire ammoniumverbindingen
+M03AX;Autres myorelaxants à action périphérique;Overige perifeer werkende spierrelaxantia
+M03BA;Esters de l'acide carbamique;Carbaminezuuresters
+M03BB;Dérivés de l'oxazole, des thiazines et triazines;Oxazole-, thiazine-, triazinederivaten
+M03BC;Ethers chimiquement proches des antihistaminiques;Ethers, chemisch verwant aan antihistaminica
+M03BX;Autres agents à action centrale;Overige centraal werkende middelen
+M03CA;Dantrolene et ses dérivés;Dantroleen en derivaten
+M04AA;Inhibiteurs de la production d'acide urique;Middelen met remmende werking op de urinezuurproduktie
+M04AB;Stimulants de l'excrétion d'acide urique;Middelen met versnellende werking op de urinezuurexcretie
+M04AC;Préparations sans effet sur le métabolisme de l'acide urique;Verbindingen zonder werking op het urinezuurmetabolisme
+M04AX;Autres antigoutteux;Overige jichtmiddelen
+M05BA;Biphosphonates;Bisfosfonaten
+M05BB;Biphosphonates et calcium, préparations séquentielles;Bisfosfonaten met calcium, sequentiële preparaten
+M05BC;Protéines osseuses morphogénétiques;Morfogenetische botproteinen
+M05BX;Autres préparations affectant la minéralisation;Overige middelen met invloed op de mineralisatie
+M09AA;Quinine et ses dérivés;Kinine en derivaten
+M09AB;Enzymes;Enzymen
+M09AX;Système musculaire et squelettique, autres préparations;Overige middelen voor aandoeningen van het skeletspierstelsel
+N01AA;Ethers;Ethers
+N01AB;Hydrocarbures halogènes;Gehalogeneerde koolwaterstoffen
+N01AF;Barbituriques, monocomposés;Barbituraten, enkelvoudig
+N01AG;Barbituriques associés à d'autres produits;Barbituraten met andere middelen
+N01AH;Opiacés anesthésiques;Opioïde anesthetica
+N01AX;Autres anesthésiques généraux;Overige algemene anesthetica
+N01BA;Esters de l'acide aminobenzoique;Esters van aminobenzoezuur
+N01BB;Amides;Amiden
+N01BC;Esters de l'acide benzoique;Esters van benzoëzuur
+N01BX;Autres anesthésiques locaux;Overige lokale anesthetica
+N02AA;Alcaloïdes naturels de l'opium;Natuurlijke opiumalkaloïden
+N02AB;Dérivés de la phénylpipéridine;Fenylpiperidinederivaten
+N02AC;Dérivés de la diphénylpropylamine;Difenylpropylaminederivaten
+N02AD;Dérivés du benzomorphane;Benzomorfanderivaten
+N02AE;Dérivés de l'oripavine;Oripavinederivaten
+N02AF;Dérivés du morphinane;Morfinanderivaten
+N02AG;Opiacés associés avec des spasmolytiques;Opioïden met spasmolytica
+N02AX;Autres opiacés;Overige opioïden
+N02BA;Acide salicylique et ses dérivés;Salicylzuur en derivaten
+N02BB;Dérivés de la pyrazolone;Pyrazolonderivaten
+N02BE;Anilides;Aniliden
+N02BG;Autres analgésiques et antipyrétiques;Overige analgetica en antipyretica
+N02CA;Alcaloïdes de l'ergot;Moederkoren-alkaloïden
+N02CB;Dérivés des corticostéroïdes;Corticosteroïd-derivaten
+N02CC;Antagonistes des récepteurs 5ht1 sélectifs;Selectieve 5ht1-receptoragonisten
+N02CX;Autres antimigraineux;Overige migrainemiddelen
+N03AA;Barbituriques et dérivés;Barbituraten en verwante verbindingen
+N03AB;Dérivés de l'hydantoine;Hydantoinederivaten
+N03AC;Dérivés de l'oxazolidine;Oxazolidinederivaten
+N03AD;Dérivés succinimides;Succinimidederivaten
+N03AE;Dérivés des benzodiazépines;Benzodiazepinederivaten
+N03AF;Dérivés carboxamides;Carboxamidederivaten
+N03AG;Dérivés des acides gras;Vetzuurderivaten
+N03AX;Autres antiépileptiques;Overige anti-epileptica
+N04AA;Aminés tertiaires;Tertiaire aminen
+N04AB;Ethers chimiquement proches des antihistaminiques;Ethers, chemisch verwant aan antihistaminica
+N04AC;Ethers du tropane ou de dérivés du tropane;Ethers van tropine of tropinederivaten
+N04BA;Dopa et ses dérivés;Dopa en -derivaten
+N04BB;Dérivés de l'adamantane;Adamantaanderivaten
+N04BC;Antagonistes de la dopamine;Dopamine-agonisten
+N04BD;Inhibiteurs des monoamine oxydase de type B;Mao-remmers type B
+N04BX;Autres antagonistes de la dopamine;Overige dopaminergica
+N05AA;Phénothiazines substitués avec une chaîne aliphatique;Fenothiazinen met alifatische zijketen
+N05AB;Phénothiazines avec une structure pipérazinique;Fenothiazinen met piperazinestructuur
+N05AC;Phénothiazines avec une structure pipéridinique;Fenothiazinen met piperidinestruktuur
+N05AD;Dérivés de la butyrophénone;Butyrofenonderivaten
+N05AE;Dérivés indoliques;Indolederivaten
+N05AF;Dérivés du thioxanthène;Thioxantheenderivaten
+N05AG;Dérivés de la diphénylbutylpipéridine;Difenylbutylpiperidinederivaten
+N05AH;Diazépines, oxazépines et thiazépines;Diazepinen, oxazepinen en thiazepinen
+N05AK;Neuroleptiques pour la dyskinésie tardive;Neuroleptica voor tardieve dyskinesie
+N05AL;Benzamides;Benzamiden
+N05AN;Sels de lithium;Lithiumzouten
+N05AX;Autres antipsychotiques (neuroleptiques);Overige antipsychotica (neuroleptica)
+N05BA;Benzodiazépines;Benzodiazepinederivaten
+N05BB;Dérivés du diphénylmethane;Difenylmethaanderivaten
+N05BC;Carbamates;Carbamaten
+N05BD;Dérivés du dibenzo-bicyclo-octadiene;Dibenzo-bicyclo-octadieenderivaten
+N05BE;Dérivés de l'azaspirodecanedione;Azaspirodecaandionderivaten
+N05BX;Autres anxiolytiques;Overige anxiolytica
+N05CA;Barbituriques, monocomposés;Barbituraten, enkelvoudig
+N05CB;Barbituriques, associations;Barbituraten, combinatiepreparaten
+N05CC;Aldéhydes et dérivés;Aldehyden en derivaten
+N05CD;Benzodiazépines;Benzodiazepinederivaten
+N05CE;Dérivés de la pipéridinedione;Piperidinedionderivaten
+N05CF;Substances apparentées aux benzodiazépines;Stoffen verwant met benzodiazepines
+N05CG;Imidazopyridines;Imidazopyridines
+N05CM;Autres hypnotiques et sédatifs;Overige hypnotica en sedativa
+N05CX;Hypnotiques et sédatifs, associations sauf les barbituriques;Hypnotica en sedativa combinatiepreparaten, excl. barbituraten
+N06AA;Inhibiteurs non sélectifs du recaptage de monoamine;Niet selectieve monoamine reuptake inhibitoren
+N06AB;Inhibiteurs sélectifs du recaptage de la sérotonine;Selectieve serotonine reuptake inhibitoren
+N06AF;Inhibiteurs non sélectifs de la monoamine oxydase;Mao-remmers, niet-selectieve
+N06AG;Inhibiteurs de la monoamine oxydase de type A;Mao-remmers type A
+N06AX;Autres antidépresseurs;Overige antidepressiva
+N06BA;Sympathicomimétiques à action centrale;Sympathicomimetica met centrale werking
+N06BC;Dérivés xanthiques;Xanthinederivaten
+N06BX;Autres psychostimulants et nootropes;Overige psychostimulantia en noötrope middelen
+N06CA;Antidépresseurs associés à des psycholeptiques;Antidepressiva met psycholeptica
+N06CB;Psychostimulants associés à des psycholeptiques;Psychostimulantia met psycholeptica
+N06DA;Inhibiteurs de la cholinestérase;Cholinesteraseremmers
+N06DX;Autres médicaments contre la démence;Overige middelen tegen dementie
+N07AA;Inhibiteurs des cholinestérases;Cholinesteraseremmers
+N07AB;Esters de la choline;Choline-esters
+N07AX;Autres parasympathicomimétiques;Overige parasympathomimetica
+N07BA;Produits contre le tabagisme;Middelen bij tabaksverslaving
+N07BB;Médicaments traitant la dépendance à l'alcool;Middelen voor de behandeling van alcoholafhankelijkheid
+N07BC;Médicaments traitant la dépendance aux opiacés;Middelen bij opiaatafhankelijkheid
+N07CA;Préparations antivertigineuses;Antivertigo preparaten
+N07XA;Gangliosides et dérivés;Gangliosiden en gangliosidederivaten
+N07XX;Autres médicaments du système nerveux central;Overige middelen voor het centraal zenuwstelsel
+P01AA;Dérivés de l'hydroxyquinoline;Hydroxychinolinederivaten
+P01AB;Dérivés du nitroimidazole;Nitroimidazolederivaten
+P01AC;Dérivés du dichloroacétamide;Dichloroaceetamide derivaten
+P01AR;Composés arsenicaux;Arseenhoudende middelen
+P01AX;Autres amoébicides;Overige amoebicide middelen
+P01BA;Aminoquinolines;Aminochinolines
+P01BB;Biguanides;Biguaniden
+P01BC;Alcaloïdes dérivés de la quinine;Kinine-alkaloïden
+P01BD;Diaminopyridines;Diamantpyrimidines
+P01BE;Artemisinine et dérivés;Artemisinine en derivaten
+P01BX;Autres antimalariques;Overige malariamiddelen
+P01CA;Dérivés du nitroimidazole;Nitroimidazolederivaten
+P01CB;Dérivés de l'antimoine;Antimoonverbindingen
+P01CC;Dérivés du nitrofurane;Nitrofuraanderivaten
+P01CD;Composés arsenicaux;Arseenverbindingen
+P01CX;Autres agents contre la léismaniose et la trypanosomiase;Overige leishmaniasis- en trypanosomiasismiddelen
+P02BA;Dérivés de la quinoline;Chinolinederivaten
+P02BB;Composés organohosphores;Organische fosforverbindingen
+P02BX;Autres agents actifs contre les trématodes;Overige anthelminthica tegen trematoden
+P02CA;Dérivés du benzimidazole;Benzimidazolederivaten
+P02CB;Pipérazine et ses dérivés;Piperazine en derivaten
+P02CC;Dérivés de la tétrahydropyrimidine;Tetrahydropyrimidinederivaten
+P02CE;Dérivés de l'imidazothiazole;Imidazothiazolederivaten
+P02CF;Avermectines;Avermectines
+P02CX;Autres agents actifs contre les nématodes;Overige anthelminthica tegen nematoden
+P02DA;Dérivés de l'acide salicylique;Salicylzuurderivaten
+P02DX;Autres agents actifs contre les cestodes;Overige anthelminthica tegen cestoden
+P03AA;Préparations contenant du soufre;Zwavelbevattende middelen
+P03AB;Préparations contenant du chlore;Chloorbevattende middelen
+P03AC;Pyréthrines, dérivés synthétiques inclus;Pyretrinen, incl. synthetische verbindingen
+P03AX;Autres ectoparasiticides, scabicides inclus;Overige ectoparacidiciden, incl. scabiesmiddelen
+P03BA;Pyréthrines;Pyrethrinen
+P03BX;Autres insecticides et repellants;Overige insecticiden en insectenwerende middelen
+R01AA;Sympathicomimétiques, monocomposés;Sympathicomimetica
+R01AB;Sympathicomimétiques, associations sauf avec corticostéroïdes;Sympathicomimetica, combinatiepreparaten, excl. corticosteroïden
+R01AC;Antiallergiques, sauf les corticostéroïdes;Anti-allergische middelen, excl. corticosteroïden
+R01AD;Corticostéroïdes;Corticosteroïden
+R01AX;Autres préparations à usage nasal;Overige neuspreparaten
+R01BA;Sympathicomimétiques;Sympathicomimetica
+R02AA;Antiseptiques;Antiseptica
+R02AB;Antibiotiques;Antibiotica
+R02AD;Anesthésiques locaux;Anesthetica, lokale
+R03AA;Alpha et bêta sympathicomimétiques;Alfa- en beta-sympathicomimetica
+R03AB;Bêta sympathicomimétiques non sélectifs;Niet-selectieve beta-sympathicomimetica
+R03AC;Bêta-2 sympathicomimétiques sélectifs;Selectieve beta-2-sympathicomimetica
+R03AH;Associations de sympathicomimétiques;Combinaties van sympathicomimetica
+R03AK;Sympathicomimétiques et autres antiasthmatiques;Sympathicomimetica met andere astmamiddelen
+R03BA;Glucocorticoïdes;Glucocorticoïden
+R03BB;Anticholinergiques;Parasympathicolytica
+R03BC;Antiallergiques, sauf les corticostéroïdes;Anti-allergische middelen, excl. corticosteroïden
+R03BX;Autres antiasthmatiques, par inhalation;Overige astmamiddelen, tracheaal
+R03CA;Alpha et bêta sympathicomimétiques;Alfa- en beta-sympathicomimetica
+R03CB;Bêta sympathicomimétiques non sélectifs;Niet-selectieve beta-sympathicomimetica
+R03CC;Bêta-2 sympathicomimétiques sélectifs;Selectieve beta-2-sympathicomimetica
+R03CK;Sympathicomimétiques et autres antiasthmatiques;Sympathicomimetica met andere astmamiddelen
+R03DA;Xanthines;Xanthinederivaten
+R03DB;Xanthines et sympathicomimétiques;Xanthinederivaten met sympathicomimetica
+R03DC;Antagonistes des récepteurs des leukotrienes;Leukotrieenreceptorantagonisten
+R03DX;Autres antiasthmatiques à usage systémique;Overige systemische middelen bij astma
+R05CA;Expectorants;Expectorantia
+R05CB;Mucolytiques;Mucolytica
+R05DA;Alcaloïdes de l'opium et dérivés;Opiumalkaloïden en derivaten
+R05DB;Autres antitussifs;Overige antitussiva
+R05FA;Dérivés de l'opium et expectorants;Opiumderivaten met expectorantia
+R05FB;Autres antitussifs et expectorants;Overige antitussiva met expectorantia
+R06AA;Ethers d'aminoalkyle;Aminoalkylethers
+R06AB;Alkylamines substituées;Gesubstitueerde alkylaminen
+R06AC;Ethylenédiamines substituées;Gesubstitueerde ethyleendiamines
+R06AD;Dérivés des phénothiazines;Fenothiazinederivaten
+R06AE;Dérivés de la pipérazine;Piperazinederivaten
+R06AK;Associations d'antihistaminiques;Combinaties van antihistaminica
+R06AX;Autres antihistaminiques à usage systémique;Overige antihistaminica voor systemisch gebruik
+R07AA;Surfactants pulmonaires;Longsurfactants
+A01AB;Anti-infectieux à usage buccal;Anti-microbiële middelen voor gebruik in de mond
+A02BA;Antihistaminiques H2;H2-receptorblokkerende middelen
+A02BB;Prostaglandines;Prostaglandines
+A02BC;Inhibiteurs de la pompe à protons;Inhibitoren van de protonpomp
+A02BX;Autres substances pour le traitement de l'ulcère peptique;Overige ulcus pepticum middelen
+A03AA;Anticholinergiques synthétiques, esters avec aminé tertiaire;Synthetische parasympathicolytica, esters met tertiaire aminogroep
+A03AB;Anticholinergiques synthétiques, aminés quaternaires;Synthetische anti-cholinergica, kwaternaire ammoniumverbindingen
+A03AD;Papavérine et dérives;Papaverine en derivaten
+A03AX;Autres anticholinergiques synthétiques;Overige synthetische parasympathicolytica
+A03BB;Alcaloïdes semisynthétiques de la belladone, ammonium quaternaire;Belladonna alkaloïden, semi-synthetische kwaternaire ammoniumverbindingen
+A03FA;Procinétiques;Propulsiva
+A04AA;Antagonistes de la sérotonine (5ht3);Serotonine (5ht3) antagonisten
+A05AA;Acides biliaires;Galzuurpreparaten
+A06AD;Laxatifs osmotiques;Osmotisch werkende laxantia
+A07AA;Antibiotiques;Antibiotica
